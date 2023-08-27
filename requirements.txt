@@ -39,7 +39,7 @@ mss==9.0.1
 nltk==3.7
 numpy==1.25.2
 opencv-contrib-python==4.8.0.76
-opencv-python-headless==4.5.1.48
+opencv-python-headless==4.5.5.64
 packaging==23.1
 pandas==2.0.3
 phonenumbers==8.13.19
